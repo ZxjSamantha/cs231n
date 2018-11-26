@@ -1,0 +1,19 @@
+Method = Model + Stratege + Algorithm
+
+Model:
+In supervised learning, model is the distribution of conditional probablity and decision function.
+
+Stratege:
+Typical method: 1)Regularization
+                Add a regularizer or penalty term
+                2)cross validation
+                
+What criterion we base on to choose model or learn the data:
+1. loss function or cost function
+   1) 
+   2)
+   3)
+   4)log-likelihood loss function
+  
+Algorithm:
+How to get the solution of algoritm
