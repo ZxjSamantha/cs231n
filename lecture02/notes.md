@@ -47,3 +47,9 @@ Why not kNN on image classification?
 Linear Classifier: 
 
 Template matching if there is only a linear classifier 
+
+---
+
+What is **hyperparameter tuning**? Hyper-parameters are not the parameters a algorithm learning, but setting by users. 
+
+What is **validation loss** ?  
